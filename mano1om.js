@@ -4549,7 +4549,6 @@ const ScoureApiSting = async function get() {
   } else {
   }
 
-  farq.style.background = "#34495e52";
 
   /* ---------------------- */
 
